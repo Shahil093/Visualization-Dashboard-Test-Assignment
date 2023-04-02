@@ -1,28 +1,7 @@
-## React + D3 Chart Components
+##  Visualization-Dashboard-Test-Assignment
 
-A collection of React + D3 chart components to easily generate data visualizations and dashboards
 
-#### Chart types
-- Scatter chart
-- Line Series
-  - Multiple line chart
-- Bar Series
-  - Basic bar chart
-  - Line-bar chart
-  - Stacked bar chart
-
-#### Features
-- Customizable axis component
-- Legend component
-- Dropdown to select chart view based on data attributes
-- Interactive chart showing tooltip on hover
-- Responsive screen size
-
-#### Sample dashboard
-
-See [App.js](https://github.com/dianaow/d3-react-components/blob/main/src/App.jsx) for sample code for below dashboard layout
-
-![d3-react-library-demo](/d3-react-library-demo.png)
+## Sample dashboard
 
 ### Setup instructions
 
